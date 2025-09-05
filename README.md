@@ -1,7 +1,8 @@
 # 💤 Analysis of an Adult Sleep EEG
 
 ## 📌 Overview
-This project analyzes overnight EEG recordings 🧠 to identify sleep stages and patterns. The MATLAB script applies various signal processing techniques 🎛️ to extract meaningful brain activity trends over a night of sleep.
+This project analyzes overnight EEG recordings 🧠 to identify sleep stages and patterns. The MATLAB script applies various signal processing techniques 🎛️ to extract meaningful brain activity trends over a night of sleep. The full project description can be found [here](./Analysis_of_an_Adult_Sleep_EEG.pdf).
+
 
 ## 🔍 Features
 - **Preprocessing 🎚️:** Down-sampling, mean subtraction, and anti-aliasing filtering.
